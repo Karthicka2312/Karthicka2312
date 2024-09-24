@@ -1,0 +1,9 @@
+//String 
+#include<stdio.h>
+#include<string.h>
+void main()
+{
+    char cp[]= "Welcome to C";
+    int i=strlen(cp);
+    printf("%d",i);
+}
